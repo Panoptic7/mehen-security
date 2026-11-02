@@ -3,7 +3,7 @@
 <p align="center"> <b>Free, open-source antivirus for Linux Mint & Ubuntu,
 made for people switching from Windows to Linux.</b> </p>
 <p align="center"> <img src="https://img.shields.io/badge/status-in%20development-d9ad4f?style=for-the-badge" alt="Status: in development"> <img src="https://img.shields.io/badge/license-GPL--3.0-3ddc97?style=for-the-badge" alt="License: GPL-3.0"> <img src="https://img.shields.io/badge/Linux%20Mint-supported-3ddc97?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint supported"> <img src="https://img.shields.io/badge/Ubuntu-supported-3ddc97?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu supported"> <img src="https://img.shields.io/badge/engine-ClamAV-3ddc97?style=for-the-badge" alt="Engine: ClamAV"> </p>
-<p align="center"> <a href="https://YOUR-GITHUB-USERNAME.github.io/mehen-security/"><b>🌐 Website</b></a>  ·  <a href="../../releases"><b>⬇️ Download</b></a>  ·  <a href="#-install"><b>📦 Install</b></a>  ·  <a href="#-questions"><b>❓ FAQ</b></a>  ·  <a href="../../issues"><b>🐞 Report a bug</b></a> </p>
+<p align="center"> <a href="https://panoptic7.github.io/mehen-security/"><b>🌐 Website</b></a>  ·  <a href="../../releases"><b>⬇️ Download</b></a>  ·  <a href="#-install"><b>📦 Install</b></a>  ·  <a href="#-questions"><b>❓ FAQ</b></a>  ·  <a href="../../issues"><b>🐞 Report a bug</b></a> </p>
 
 Mehen Security is a free, open-source antivirus for Linux Mint and Ubuntu that looks and works like the Windows antivirus you're used to. Install it with a double-click, never touch the terminal, and let it look after your laptop in the background while you settle into Linux.
 
