@@ -1,0 +1,12 @@
+Origin: Mehen Security
+Label: Mehen Security
+Suite: beta
+Codename: beta
+Date: Mon, 02 Nov 2026 07:14:58 UTC
+Valid-Until: Wed, 02 Dec 2026 07:14:58 UTC
+Architectures: all amd64
+Components: main
+Description: Mehen Security signed package repository
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-all/Packages
+ f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec 20 main/binary-all/Packages.gz
